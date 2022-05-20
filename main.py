@@ -1,3 +1,5 @@
+
+print("program do zwracania ciągu Fibonacciego do 30")
 num = 30
 fibonacci = []
 
